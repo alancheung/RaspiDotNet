@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raspi.Common", "Raspi.Common\Raspi.Common.csproj", "{8ACEAD8C-8D14-4818-9CF6-3E22093723AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Raspi.Simulation", "Raspi.Simulation\Raspi.Simulation.csproj", "{F6EE5626-756C-4E9A-AC20-D430A84FB916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8ACEAD8C-8D14-4818-9CF6-3E22093723AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACEAD8C-8D14-4818-9CF6-3E22093723AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACEAD8C-8D14-4818-9CF6-3E22093723AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACEAD8C-8D14-4818-9CF6-3E22093723AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6EE5626-756C-4E9A-AC20-D430A84FB916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6EE5626-756C-4E9A-AC20-D430A84FB916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6EE5626-756C-4E9A-AC20-D430A84FB916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6EE5626-756C-4E9A-AC20-D430A84FB916}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD71135B-D1D6-432A-A1E4-6319D559E728}
+	EndGlobalSection
+EndGlobal
